@@ -2,7 +2,7 @@
 
 ##I'm an italian fourth year high school student at [@ITIS🏫](https://www.galileilivorno.edu.it/portale/index.php/it/) and aspiring software and web developer💻.
 
-**Talking about Personal Stuffs:
+**Talking about Personal Stuffs:**
 - 👨‍💻 I'm currently developing a mobile game 🛠
 - 📚 I love studying
 - ✍ I'm a graphic designer
