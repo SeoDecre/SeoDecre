@@ -26,3 +26,5 @@ I'm an italian fourth year high school student at [@ITIS🏫](https://www.galile
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="25" />
   <img src="https://cdn.freebiesupply.com/logos/large/2x/atom-4-logo-png-transparent.png" width="25" />
 </p>
+
+![Seo's github stats](https://github-readme-stats.vercel.app/api?username=seodecre&show_icons=true&theme=dracula))
