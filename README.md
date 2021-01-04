@@ -1,6 +1,6 @@
 ### Hey, I'm Sergio! ✌
 
-##I'm an italian fourth year high school student at [@ITIS🏫](https://www.galileilivorno.edu.it/portale/index.php/it/) and aspiring software and web developer💻.
+I'm an italian fourth year high school student at [@ITIS🏫](https://www.galileilivorno.edu.it/portale/index.php/it/) and aspiring software and web developer💻.
 
 **Talking about Personal Stuffs:**
 - 👨‍💻 I'm currently developing a mobile game 🛠
