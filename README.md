@@ -11,7 +11,7 @@ I'm an italian fifth year high school student at ITIS Galileo Galilei and aspiri
 ### Languages:
 <p float="left">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" />
-  <img src="https://raw.githubusercontent.com/VoidElle/VoidElle/f885721c06207132ebfd3c36d7aa2f7069720114/imgs/html-logo.svg" width="31" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="31" />
   <img src="https://raw.githubusercontent.com/VoidElle/VoidElle/f885721c06207132ebfd3c36d7aa2f7069720114/imgs/css-logo.svg" width="22" />
   <img src="https://raw.githubusercontent.com/VoidElle/VoidElle/f885721c06207132ebfd3c36d7aa2f7069720114/imgs/java-logo.svg" width="25" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="30" />
