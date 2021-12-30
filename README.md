@@ -12,12 +12,12 @@ I'm an italian fifth year high school student at ITIS Galileo Galilei and aspiri
 <p float="left">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="31" />
-  <img src="https://raw.githubusercontent.com/VoidElle/VoidElle/f885721c06207132ebfd3c36d7aa2f7069720114/imgs/css-logo.svg" width="22" />
-  <img src="https://raw.githubusercontent.com/VoidElle/VoidElle/f885721c06207132ebfd3c36d7aa2f7069720114/imgs/java-logo.svg" width="25" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="22" />
+  <img src="https://www.informagiovani.vi.it/wp-content/uploads/2018/12/java-coffee-cup-logo.png" width="25" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="30" />
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width="25" />
-  <img src="https://raw.githubusercontent.com/VoidElle/VoidElle/f885721c06207132ebfd3c36d7aa2f7069720114/imgs/dart-logo.svg" width="25" />
-  <img src="https://raw.githubusercontent.com/VoidElle/VoidElle/f885721c06207132ebfd3c36d7aa2f7069720114/imgs/flutter-logo.svg" width="23" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" width="25" />
+  <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" width="23" />
 </p>
 
 <!--
