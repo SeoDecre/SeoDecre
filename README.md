@@ -1,6 +1,6 @@
 ### Hey, I'm Sergio! ✌
 
-I'm an italian fourth year high school student at [@ITIS🏫](https://www.galileilivorno.edu.it/portale/index.php/it/) and aspiring software and web developer💻.
+I'm an italian fifth year high school student at ITIS Galileo Galilei and aspiring software and web developer💻.
 
 **Talking about Personal Stuffs:**
 - 👨‍💻 I'm currently developing a mobile game 🛠
@@ -20,6 +20,7 @@ I'm an italian fourth year high school student at [@ITIS🏫](https://www.galile
   <img src="https://raw.githubusercontent.com/VoidElle/VoidElle/f885721c06207132ebfd3c36d7aa2f7069720114/imgs/flutter-logo.svg" width="23" />
 </p>
 
+<!--
 ### Tools:
 <p float="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" width="26" />
@@ -30,3 +31,4 @@ I'm an italian fourth year high school student at [@ITIS🏫](https://www.galile
 ---
 
 ![Seo's github stats](https://github-readme-stats.vercel.app/api?username=seodecre&show_icons=true&theme=dracula))
+-->
