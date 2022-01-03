@@ -3,7 +3,7 @@
 I'm an italian fifth year high school student at ITIS Galileo Galilei and aspiring software and web developer💻.
 
 **Talking about Personal Stuffs:**
-- 👨‍💻 I'm currently developing a mobile game 🛠
+- 👨‍💻 I develop web and mobile apps and games 🛠
 - 📚 I love studying
 - ✍ I'm a graphic designer
 - 🐱 I like cats
