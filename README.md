@@ -1,12 +1,13 @@
 ### Hey, I'm Sergio! ✌
 
-I'm an italian fifth year high school student at ITIS Galileo Galilei and aspiring software and web developer💻.
+I am a very passionate university student, I attend the University of Pisa and work every day to refine and perfect my skills.
+I love everything that comes to life through my ideas and from the code I write.
 
 **Talking about Personal Stuffs:**
-- 👨‍💻 I develop web and mobile apps and games 🛠
-- 📚 I love studying
-- ✍ I'm a graphic designer
-- 🐱 I like cats
+* 👨‍💻 I develop web and mobile apps and games 🛠
+* 📚 I love studying
+* ✍ I'm a graphic designer
+* 🐱 I like cats
 
 ### Languages:
 <p float="left">
