@@ -1,6 +1,6 @@
 ### Hey, I'm Sergio! ✌
 
-I am a very passionate university student, I attend the University of Pisa and work every day to refine and perfect my skills.
+I am a very passionate student, I study CS at the University of Pisa and work every day to refine and perfect my skills.
 I love everything that comes to life through my ideas and from the code I write.
 
 **Talking about Personal Stuffs:**
