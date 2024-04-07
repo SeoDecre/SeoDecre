@@ -1,6 +1,6 @@
 ### Hey, I'm Sergio! ✌
 
-Motivated by curiosity and a hunger for knowledge, I explore diverse interests such as theoretical computer science, logic, philosophy, literature and visual arts.
+Motivated by curiosity and a hunger for knowledge, I explore diverse interests such as theoretical computer science, logic, philosophy and visual arts.
 
 I study CS at the University of Pisa and work every day to refine and perfect my skills.<br>
 _The art of programming is the art of elegantly organizing complexity._
@@ -10,3 +10,5 @@ _The art of programming is the art of elegantly organizing complexity._
 ✉️ Contact me at sergiodecrescenzo2003@gmail.com<br>
 💻 Currently working independently, open to collabs
 <!-- ![Seo's github stats](https://github-readme-stats.vercel.app/api?username=seodecre&show_icons=true&theme=dracula)) -->
+
+_Most of my repositories are private due to corporate agreements_
