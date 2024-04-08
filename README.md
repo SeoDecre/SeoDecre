@@ -5,7 +5,7 @@ Motivated by curiosity and a hunger for knowledge, I explore diverse interests s
 I study CS at the University of Pisa and work every day to refine and perfect my skills.<br>
 _The art of programming is the art of elegantly organizing complexity._
 
-🌐 [Portfolio](sergiodecrescenzo.com)<br>
+🌐 [Portfolio](https://www.sergiodecrescenzo.com/)<br>
 💼 [LinkedIn](https://www.linkedin.com/in/sergio-de-crescenzo/) profile<br>
 ✉️ Contact me at sergiodecrescenzo2003@gmail.com<br>
 💻 Currently working independently, open to collabs
