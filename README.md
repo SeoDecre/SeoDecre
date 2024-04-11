@@ -1,6 +1,6 @@
 ### Hey, I'm Sergio! ✌
 
-Motivated by curiosity and a hunger for knowledge, I explore diverse interests such as computer science, philosophy and visual arts.
+Motivated by curiosity and a hunger for knowledge, I explore diverse interests such as computer science, philosophy, visual arts and music.
 
 I study CS at the University of Pisa and work every day to refine and perfect my skills.<br>
 _The art of programming is the art of elegantly organizing complexity._
